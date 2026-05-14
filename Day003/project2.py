@@ -2,7 +2,7 @@ print("Welcome to find the treasure game!")
 Left_or_right = input("You're at a crossroad. Do you want to go Left or Right? Choose L or R. ")
 if Left_or_right == "L":
     print("You come to a lake. There is an island in the middle of the lake. Do you want to wait for a boat or swim across? Type wait to wait for a boat or type swim to swim across. ")
-    wait_or_swim = input("Type wait or swim. ")
+    wait_or_swim = input("Type \"wait\" or \"swim\". ")
     if wait_or_swim == "wait":
         print("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose? ")
         door_color = input("Type the color of the door you want to open. ")
