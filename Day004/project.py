@@ -1,1 +1,1 @@
-my_fav_num = 7
+my_fav_num = 7 #### This file is only storing a variable to show how can we use it in another file. We will import this variable in the Exercise file.
