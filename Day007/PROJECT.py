@@ -1,4 +1,5 @@
 ###This week is a project we will create hangman game but please train yourself on flowcharts how to create them for your program logic and how to return to them while coding as the guideline
+###If you don't know what a hangman game is please check it on google and try to understand the logic behind it and how to implement it in python
 import random
 lives = 5        ###Counter for wrong answers
 flag1 = False    ###Flag to check if the user guessed the letter correctly or not
